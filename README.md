@@ -18,11 +18,14 @@
 ## 🔹 Demo Video
 https://github.com/user-attachments/assets/1d41ff35-1981-4055-a383-55b14562c421
 
-
+## 🔹 Timeline
+- **Q1 2026** - APK release
+- **Q3 2026** - Open Source Project Release
+- **Q4 2026** – Meta Quest Store Release
 
 ## 🔹 Demos & Appearances
-- **SIGGRAPH Asia 2025 – XR Demo** (Pending Submission)
-- **UIST 2025 – Demo Track** (Pending Submission)
+- **SIGGRAPH Asia 2025 – XR Demo**
+- **UIST 2025 – Demo Track**
 - **AIVR 2025** – Oral Presentation (Abstract-only, non-archival)  
   Ritsumeikan University, Osaka, Japan
 
